@@ -4,5 +4,11 @@
     "supabase_url": "https://kojljkonnzzfbrxatcme.supabase.co",
     "supabase_key_env": "SUPABASE_KEY_1",
     "table_name": "keep-alive"
+  },
+  {
+    "name": "AgeInDays",
+    "supabase_url": "https://fzcgsnowoszedmujejtj.supabase.co",
+    "supabase_key_env": "SUPABASE_KEY_2",
+    "table_name": "keep-alive"
   }
 ]
